@@ -1,7 +1,8 @@
-// to excape from global scope polution we use/  declare iife
+// to escape from global scope polution we use/declare iife
 
 // Immediately Invoked Function Expressions (IIFE)
 
+//()()
 
 (function chai(){
     // named IIFE

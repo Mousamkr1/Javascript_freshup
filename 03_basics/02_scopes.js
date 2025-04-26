@@ -43,8 +43,8 @@ if (true) {
 
 // ++++++++++++++++++ interesting ++++++++++++++++++
 
-
-console.log(addone(5)) // no error - mini hoisting
+// mini hoisting
+console.log(addone(5)) // no error 
 
 function addone(num){
     return num + 1
