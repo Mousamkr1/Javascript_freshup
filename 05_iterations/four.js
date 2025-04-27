@@ -1,3 +1,5 @@
+//for in
+
 const myObject = {
     js: 'javascript',
     cpp: 'C++',
@@ -24,5 +26,5 @@ for (const key in programming) {
 // map cannot iterate
 
 // for (const key in map) {
-//     console.log(key);
+//     console.log(key); // no output
 // }
